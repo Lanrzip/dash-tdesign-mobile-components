@@ -1,0 +1,11 @@
+include dash_tdesign_mobile_components/dash_tdesign_mobile_components.min.js
+include dash_tdesign_mobile_components/dash_tdesign_mobile_components.min.js.map
+include dash_tdesign_mobile_components/async-*.js
+include dash_tdesign_mobile_components/async-*.js.map
+include dash_tdesign_mobile_components/*-shared.js
+include dash_tdesign_mobile_components/*-shared.js.map
+include dash_tdesign_mobile_components/metadata.json
+include dash_tdesign_mobile_components/package-info.json
+include README.md
+include LICENSE
+include package.json
